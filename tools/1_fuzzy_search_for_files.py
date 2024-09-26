@@ -1,6 +1,5 @@
 import os
 
-
 # 1
 # fuzzy_search_for_files
 
@@ -27,5 +26,3 @@ for f in files:
     #    - Check the 'project30' or 'commericial' key word is not in the filename.
     if (not f.endswith('.gif')) or (not 'project30' in f) or (not 'commericial' in f):
         print(f)
-
-

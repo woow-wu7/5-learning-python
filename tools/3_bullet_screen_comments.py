@@ -3,7 +3,8 @@ import requests
 
 # 1
 # bullet screen comment.
-# - requests.post(url, data, headers)
+# -- requests.post(url, data, headers)
+# -- tutorial: https://www.bilibili.com/video/BV15s4y1L7qV/?spm_id_from=333.880.my_history.page.click&vd_source=a8374ac38c77856369542fc154a1e043
 
 url="https://api.live.bilibili.com/msg/send"
 
